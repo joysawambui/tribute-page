@@ -1,0 +1,66 @@
+h1{
+  padding:50px 20px 0px 20px;
+  font-size:340%;
+  font-weight:bold;
+  font-family:Lucida Console, Monaco;
+}
+h3{
+  padding:5px 20px 5px 20px ;
+  font-size:200%;
+  font-family:Lucida Grande, sans-serif;
+}
+.white-box{
+  background-color:white;
+  border-radius:10px;
+  margin: 0px 250px 40px 250px;
+}
+.silver-box{
+  background-color:#F0F0F0;
+  border-radius:10px;
+  margin: 50px 100px 50px 100px;
+}
+p {
+  text-indent:50px;
+  text-align:center;
+  font-size:150%;
+}
+
+.center{
+  width:750px;
+    margin:0 auto;
+    text-align:left;
+}
+img{
+  display:block;
+  margin: auto;
+  border-radius:5px;
+}
+figcaption {
+    margin: 20px 0 0 0;
+    font-variant: small-caps;
+    font-weight: bold;
+  font-size:110%;
+  
+}
+figure {
+    padding: 0px 5px 10px 5px;
+  background-color:white;
+  border-radius:10px;
+}
+#quote{
+  text-align:center;
+  padding: 5px;
+}
+#quote-sayer{
+  text-align:center;
+  text-color:#EAEAEA;
+  font-size:130%;
+  font-family:Lucida Grande, sans-serif;
+  padding:5px;
+}
+#conclusion{
+  padding:5px 5px 20px 5px;
+}
+footer{
+  text-align:center;
+}
